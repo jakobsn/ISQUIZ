@@ -84,7 +84,7 @@ DONNO9.2
 !!
 analytical models
 !!
-batch processing system
+online
 !!
 source data information
 !!

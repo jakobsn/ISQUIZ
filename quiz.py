@@ -25,6 +25,7 @@ def quiz(questions, answers):
             break
         else:
             print("Wrong, correct answer was:", realanswer)
+            print("")
         total += 1
     print("SCORE:", correct, "/", total)
 
