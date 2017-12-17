@@ -1,0 +1,515 @@
+1.1. The value of information is directly linked to how it
+helps decision makes achieve the organizations goals.
+A(n) _________ is a set of interrelated components that collect,
+manipulate, and disseminate data and information and provide a
+feedback mechanism to meet an objective.
+!!
+1.2. What consists of raw facts such as an employee number?
+bytes
+data
+information
+knowledge
+!!
+1.3. Knowledge workers are usually professionals in science
+engineering, business, and other areas.
+true
+false
+!!
+1.4. Computers and information systems help make it possible
+for organizations to improve the way they conduct business.
+A(n) is a set of elements or components that interact to
+accomplish a goal
+!!
+1.5. A measure of what is produced divided by what is consumed
+is known as _________
+efficiency
+effectiveness
+performance
+productivity
+!!
+1.6. A specific objective of a system is called performance standard
+true
+false
+!!
+1.7. Knowing the potential impact of information systems and
+having the ability to put this knowledge to work can result
+in a successful personal career and organizations that reach
+their goals. A(n) ______ consists of hardware, software, databases,
+telecommunications, people and procedures.
+!!
+1.8. Computer programs that govern the operation of a computer
+system are called __________.
+feedback
+feedforward
+software
+transaction process systems
+!!
+1.9  Payroll and order processing are examples of a computerized
+knowledge management systems
+true
+false
+!!
+1.10. What is an organized collection of people, procedures,
+software, databases, and devices used to create, store, share,
+and use the organization experience and knowledge.
+TPS - transaction processing system
+MIS - management information system
+DSS - decision support system
+KM - knowledge management
+!!
+1.11. ___________ is a set of integrated programs that manage
+vital business operations
+!!
+1.12 Systems users, business managers, and information systems
+professionals must work together to build a successful information
+system. What defines the problems and opportunities of an existing system?
+systems analysis
+systems review
+system development
+systems design
+!!
+1.13 Information systems must be applied thoughtfully and carefully so that
+society, business and industry around the globe can reap their enormous benefits.
+___________ literacy is a knowledge of how data and information are used by
+individuals, groups, and organizations
+!!
+2.1. The use if informations systems to add value to organizations is strongly
+influenced by organizational culture, and change. Supply chain management can help
+a company determine what supplies and equipment are required for the value chain.
+true
+false
+!!
+2.2 A(n) ________ is a formal collection of people and their resources
+established to accomplish a set of goals.
+!!
+2.3 User satisfaction with a computer system and the information it generates often
+depends on the quality of the system and the resulting information
+true
+false
+!!
+2.4 A ____________________ employs individuals, groups, or complete business units
+in geographically dispersed areas that can last for a few weeks or years, often requiring
+telecommunications or the internet
+learning structure
+virtual structure
+continuous improvement plan
+reengineering project
+!!
+2.5. Because information systems are so important, businesses need to be sure that improvements
+or completely new systems help lower costs, increase profits, improve service, or achieve
+a competitive advantage. _____________ Involves contracting with outside professional services
+to meet specific business needs
+!!
+2.6. Today quality means _____________
+achieving production standards
+meeting or exceeding customer expectations
+maximizing total profits
+meeting or achieving design specifications
+!!
+2.7. Technology satisfaction is a measure  of how widely technology spread throughout an organization
+true
+false
+!!
+2.8. Reengineering is also called _________
+!!
+2.9. What is a measure of the output achieved divided by the input required?
+efficiency
+effectiveness
+productivity
+return on investment
+!!
+2.10. ______________ is a measure of the additional profits or benefits generated as a percentage
+of the investment in IS technology
+!!
+2.11. IS personnel is a key to unlocking the potential of any new or modified system. Who is
+involved in helping users determine what outputs they need and constructing the plans required
+to produce these outputs?
+CIO
+applications programmer
+systems programmer
+systems analyst
+!!
+2.12. An information center provides users with assistance, training and application development.
+true
+false
+!!
+2.13. The ______________ is typically in charge of the IS department or area in a company.
+!!
+8.1. Electronic and mobile commerce are evolving, providing new ways of conducting business
+that present both potential benefits and problems. An organization will use both ________
+e-commerce to purchase goods and services from its suppliers and ________ e-commerce to sell
+products to its customers
+!!
+8.2. Which form of e-commerce is the largest?
+!!
+8.3. What is the elimination of intermediate organization between the product and
+the consumers called?
+!!
+8.4. The sole objective of e-Government is to improve communications between citizens and the the
+federal government
+true
+false
+!!
+8.5. The market for m-commerce in North America is far advanced relative to Western Europe and Japan
+true
+false
+!!
+8.6. E-commerce and m-commerce can be used in many innovative ways to improve the operations
+of an organization. A(n) _______ is a single Web site that offers many products and services
+at one internet location.
+e-tailer
+web service
+cybermall
+none above
+!!
+8.7. The practice of ___________ divides the pool of potential customers into subgroups, which
+are usually defined in terms of demographic characteristics.
+!!
+8.8. An advancement in online bill payment that uses e-mail for the biller to post an image of
+tour statement on the internet so that you can direct yout bank to pay is calles _________
+!!
+8.9. Which of the following is a frequent advantage of converting into an e-commerce supply chain?
+an increase transportation costs
+an increase in available product inventory
+acquisition of expensive information systems technology
+an improved level of customer service
+!!
+8.10. The use of any of several technologies to enforce policies for controlling access to
+digital media is called _______
+!!
+8.11. Organizations must define and execute a strategy to be successful in e-commerce and m-commerce.
+After your Web site is established and successful, you do not need to redefine your site's basic
+business model.
+true
+false
+!!
+8.12. Web site operators can take several actions to improve their rankings by search engines.
+true
+false
+!!
+8.13 E-commerce and m-commerce require the careful planning and integration of a number
+of technology infrastructure and components. Poor web site performance can drive customers
+to abandon your web site in favor of those with better, more reliable performance.
+true
+false
+!!
+8.14. _________ contain variable information and are built to respond to a specific web site
+visitor's request for information.
+!!
+9.1. An organization must have information that support routine, day-to-day activities and that
+help a company add value to its products and services. A key characteristic of an enterprise
+is that is uses a database of key operational and planning data that can be _________.
+!!
+9.2. The result of processing business transactions is that the organization's records are
+updated to reflect the status of the operation at the time of the ______________.
+!!
+9.3.  Which of the following is not one of the basic components of a TPS?
+databases
+networks
+procedures
+analytical models
+!!
+9.4. A form of TPS whereby business transactions are immediately processed is called ____________.
+!!
+9.5. Capturing data at its source and recording accurately in a timely fashion, with minimal manual
+effort, and in an electronic or digital form that can be directly entered intro the computer are
+the principles behind _______.
+!!
+9.6. Which of the following is a set of transaction processing systems sometimes referred to as the
+lifeblood of the organization?
+purchasing system
+accounting systems
+order processing systems
+none above
+!!
+9.7. Business data goes through a(n) _______ that includes data collection, data editing,
+data correction, data manipulation, data storage, and documentation production
+!!
+9.8. Inventory control, purchase order processing, receiving, and accounts payable systems make up a set
+of systems that support the _______ business function
+!!
+9.9. The ______ transaction processing system manages the cash flow of the company by keeping track
+of the money owed the company.
+!!
+9.10. A company that implements an enterprise resource planning system is creating a highly integrated
+set of systems, which can lead to many business benefits. Many multinational companies roll out standard
+IS applications for all to use. However, standard applications often don't account for all the differences
+among business partners and employees operating in other parts of the world. Which of the following is a
+frequent modification that is needed for standard software?
+software might need to be designed with local language interfaces.
+customization might be needed to handle date fields correctly.
+users might have to implement manual processes and overrides to enable systems to function correctly.
+all above.
+!!
+9.11. Which of the following is a primary benefit of implementing an ERP system?
+elimination of inefficient systems.
+easing adoption of improved work processes.
+improving access to data for operational decision making.
+all above.
+!!
+9.12. The individual application modules included in an ERP system are designed to support ______,
+the most efficient and effective ways to complete a business process.
+!!
+10.1. Good decision making and problem-solving skills are the key to developing effective
+information and decision support systems. Developing decision alternatives is done during
+what decision making stake?
+initiation stage
+intelligence stage
+design stage
+choice stage
+!!
+10.2. Problem solving is one of the stages of decision making
+true
+false
+!!
+10.3. A "rule of thumb" or commonly accepted guideline (in decision making and problem solving)
+is called a(n) _________
+!!
+10.4. A decision that inventory should be ordered when inventory levels drop to 500 units is
+an example of a(n) __________.
+synchronous decision
+asynchronous decision
+nonprogrammed decision
+programmed decision
+!!
+10.5. A(n) ___________ model will find the best solution to help the organization meet its goals
+!!
+10.6. A satisfying model is one that will find a good problem solution, but not necessarily
+the best problem solution
+true
+false
+!!
+10.7. The management information system (MIS) must provide the right information to the
+right person in the right format at the right time. What summaries the previous day's
+critical activities and is typically available at the beginning of each workday?
+key-indicator report
+demand report
+exception report
+database report
+!!
+10.8. MRP and JIT are subsystems of the ______________
+marketing MIS
+financial MIS
+manufacturing MIS
+auditing MIS
+!!
+10.9. Another name for the ______________ MIS is the personnel MIS because it is concerned
+with activities related to employees and potential employees of the organization
+!!
+10.10. Decision support systems (DSSs) are used when the problems are unstructured. The focus
+of a decision support system is on decision making effectiveness when faced with unstructured
+or semistructured business problems
+true
+false
+!!
+10.11. The __________ in a decision support system allows a decision maker to perform
+quantitative analysis
+!!
+10.12 What component of a decision support system allows decision makers to easily access
+and manipulate the DSS to use common business terms and phrases
+the knowledge base
+the model base
+the user interface or dialogue manager
+the expert system
+!!
+10.13. Specialized support systems, such as group support systems (GSSs) and executive
+support systems (ESSs), use the overall approach of a DSS in situations such as group
+and executive decision making. What decision making technique allows voting group members
+to arrive at a final group decision?
+groupthink
+anonymous input
+nominal group technique
+delphi
+!!
+10.14. A type of software that helps with joint work group scheduling and communications,
+and management is called ____________
+!!
+10.15. The local area decision network is the ideal GSS alternative for situations in which
+decision makes are located in the same building or geographical area and the decision makes
+are occasional users of the GSS approach
+true
+false
+!!
+10.16. A(n) _________ supports the actions of members of the board of directors, who are
+responsible to stockholders
+!!
+11.1. Knowledge management allows organizations to share knowledge and experience among
+managers  and employees.____________ Knowledge is objective and can be measured and
+documented in reports, papers, and rules
+!!
+11.2. What type of person creates, uses, disseminates knowledge?
+knowledge worker
+information worker
+domain expert
+knowledge engineer
+!!
+11.3. A community of practice (COP) is a group of people or community dedicated to a common
+discipline or practice, such as open-source software, auditing, medicine, engineering, and
+other areas.
+true
+false
+!!
+11.4. Artificial intelligence systems form a broad and diverse set of systems that can replicate
+human decision making for certain types of well defined problems. The Turing Test attempts to
+determine whether the responses from a computer with intelligent behavior are indistinguishable
+from responses from a human.
+true
+false
+!!
+11.5. _____________ are rules of thumb arising from experience or even guesses (AI)
+!!
+11.6. What is not an important attribute for artificial intelligence?
+the ability to use sensors
+the ability to learn from experience
+the ability to be creative
+the ability to make complex calculations
+!!
+11.7. _____________ Involves mechanical or computer devices that can paint cars,
+make precision welds, and perform other tasks that require a high degree of precision
+or are tedious or are tedious or hazardous for human beings.
+!!
+11.8. What branch of artificial intelligence involves a computer understanding and
+reacting to statements in English or another language?
+expert systems
+neural network
+natural language processing
+vision systems
+!!
+11.9. A(n) ___________ is a combination of software and hardware that allows the computer
+to change how it functions or reacts to situations based on feedback it receives.
+!!
+11.10. Expert systems can enable a novice to perform at the level of an expert but must
+be developed and maintained very carefully. What are disadvantages of an expert system?
+the inability to solve complex problems
+the inability to deal with uncertainty
+limitations to relatively narrow problems
+the inability to draw conclusions from complex relationships
+!!
+11.11. A(n) __________ is a collection of software packages and tools used to develop expert
+systems that can be implemented on most popular PC platforms to reduce development time and costs
+!!
+11.12. A heuristic consists of a collection of software and tools used to develop an expert
+system to reduce development time and costs
+true
+false
+!!
+11.13. What stores all relevant information, data, rules, cases and relationships used by
+the expert system?
+the knowledge base
+the data interface
+the database
+the acquisition facility
+!!
+11.14. A disadvantage of an expert system is the inability to provide expertise needed at a number
+of locations at the same time or in a hostile environment that is dangerous to human health
+true
+false
+!!
+11.15 What allows a user or decision maker to understand how the expert system arrived at
+a certain conclusion or result
+the domain expert
+the inference engine
+the knowledge base
+the explanation facility
+!!
+11.16. An important part of an expert system is the _____________. which allows a user or
+decision maker to understand how the expert system arrived at certain conclusions or results
+!!
+11.17. In an expert system, the domain expert is the individual or group who has the expertise
+or knowledge one is trying to capture in the expert system
+true
+false
+!!
+11.18. Multimedia and virtual reality systems can reshape the interface between people and
+information technology by offering new ways to communicate information, visualize processes,
+and express ideas creatively. ___________ Can be used to create stunning brochures, presentations,
+reports and documents.
+!!
+11.19. What type of virtual reality is used to make human beings feel as though they are in a
+3D setting such as a building, an archaeological excavation site, the human anatomy, a sculpture,
+or a crime scene reconstruction?
+cloud
+relative
+immersive
+visual
+!!
+11.20. Specialized systems can help organizations and individuals achieve their goals. __________
+involves the use of information systems to develop competitive strategies for people, organizations,
+or even countries
+!!
+12.1. Effective systems development requires a team effort from stakeholders, users, managers,
+systems development specialists and various support personnel, and it starts with careful planning.
+__________ is the activity of creating or modifying existing business systems. It refers to all
+aspects of the process-from identifying problems to be solved or opportunities to be exploited to
+the implementation and refinement of the chosen solution.
+!!
+12.2. Which of the following people ultimately benefit from a systems development project?
+computer programmers
+systems analysts
+stakeholders
+senior-level manager
+!!
+12.3. Effective systems development requires a team effort from stakeholders, users, managers,
+systems development specialists and various support personnel, and it starts with careful planning.
+_______ involves questioning statements and assumptions
+!!
+12.4. Like a contractor constructing a new building or renovating an existing one, the chief
+information officer (CIO) takes the plans from the systems analyst and builds or modifies the
+necessary hardware
+true
+false
+!!
+12.5. The term _______ refers to the translation of strategic and organizational goals into
+system development initiatives.
+!!
+12.6. What involves investigating new approaches to existing problems?
+critical success factors
+systems analysis factors
+creative analysis
+critical analysis
+!!
+12.7. Systems development often uses tools to select, implement, and monitor projects,
+including prototyping, rapid application development, CASE tools, and object oriented
+development. What kind of development uses tools, techniques and methodologies designed
+to speed application development?
+rapid application development
+joint optimization
+prototyping
+extended application development
+!!
+12.8. Agile development allows systems to change as they are being developed
+true
+false
+!!
+12.9. ____________ takes an iterative approach to the systems development process.
+During each iteration the team identifies and analyzes requirements and alternative
+solutions to the problem, designs new solutions and implements a portion of the system
+!!
+12.10. Rapid application development (RAD) employs tools, techniques, and methodologies
+designed to speed application development
+true
+false
+!!
+12.11. What consists of all activities that, if delayed, would delay the entire project?
+deadline activities
+slack activities
+RAD tasks
+the critical path
+!!
+12.12. Systems development starts with investigation and analysis of existing systems.
+The systems request form is a document filled out during system analysis
+true
+false
+!!
+12.13. Feasibility analysis is typically done during which systems development stage?
+investigation
+analysis
+design
+implementation
+!!
+12.14. Data modeling is most often accomplished through the use of __________, whereas activity
+modeling is often accomplished through the use of ___________.
+!!
+12.15. The overall purpose of requirements analysis is to determine user, stakeholder, and organizational needs.
+true
+false

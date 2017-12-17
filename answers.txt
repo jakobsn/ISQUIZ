@@ -1,0 +1,205 @@
+information system
+!!
+data
+!!
+true
+!!
+system
+!!
+efficiency
+!!
+true
+!!
+computer-based information system
+!!
+software
+!!
+false
+!!
+knowledge management
+!!
+enterprise resource planning
+!!
+systems analysis
+!!
+informations systems
+!!
+true
+!!
+organization
+!!
+true
+!!
+virtual structure
+!!
+outsourcing
+!!
+meeting or exceeding customer expectations
+!!
+false
+!!
+process redesign
+!!
+productivity
+!!
+return on investment
+!!
+systems analyst
+!!
+true
+!!
+CIO
+!!
+buy-side, sell-side
+!!
+B2B
+!!
+disintermediation
+!!
+false
+!!
+false
+!!
+cybermall
+!!
+market segmentation
+!!
+electronic bill presentment
+!!
+an improved level of customer service
+!!
+digital rights management
+!!
+false
+!!
+true
+!!
+true
+!!
+dynamic web pages
+!!
+DONNO9.1
+!!
+DONNO9.2
+!!
+analytical models
+!!
+batch processing system
+!!
+source data information
+!!
+order processing systems
+!!
+DONNO9.7
+!!
+purchasing
+!!
+accounts receivable
+!!
+all above
+!!
+all above
+!!
+best practices
+!!
+design stage
+!!
+false
+!!
+heuristic
+!!
+programmed decision
+!!
+optimization
+!!
+true
+!!
+key-indicator report
+!!
+manufacturing MIS
+!!
+human resource
+!!
+true
+!!
+model base
+!!
+the user interface or dialogue manager
+!!
+nominal group technique
+!!
+groupware or workgroup software
+!!
+false
+!!
+executive information system
+!!
+explicit
+!!
+knowledge worker
+!!
+true
+!!
+true
+!!
+heuristics
+!!
+the ability to make complex calculations
+!!
+robotics
+!!
+natural language processing
+!!
+learning system
+!!
+limitations to relatively narrow problems
+!!
+expert system shell
+!!
+false
+!!
+the knowledge base
+!!
+false
+!!
+the explanation facility
+!!
+the explanation facility
+!!
+true
+!!
+multimedia
+!!
+immersive
+!!
+game theory
+!!
+systems development
+!!
+systems analysts
+!!
+critical analysis
+!!
+false
+!!
+information systems planning
+!!
+creative analysis
+!!
+rapid application development
+!!
+true
+!!
+prototyping
+!!
+true
+!!
+the critical path
+!!
+false
+!!
+investigation
+!!
+entity relationship diagrams, data flow diagrams
+!!
+true
