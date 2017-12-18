@@ -78,19 +78,19 @@ true
 !!
 dynamic web pages
 !!
-DONNO9.1
+shared by all
 !!
-DONNO9.2
+last processed transaction
 !!
 analytical models
 !!
-online
+online transaction processing
 !!
-source data information
+source data automation
 !!
 order processing systems
 !!
-DONNO9.7
+transaction processing cycle
 !!
 purchasing
 !!
@@ -102,7 +102,7 @@ all above
 !!
 best practices
 !!
-design stage
+false
 !!
 false
 !!
